@@ -10,9 +10,8 @@ app.listen(port, ()=> {
 })
 
 const user = {
-    name: 'Samuel Harris'
+    
 }
-
 
 
 // routes
